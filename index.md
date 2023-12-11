@@ -1,4 +1,4 @@
-## Felix Xiaozhu Lin   林 小竹
+## David Tianshi Wang   王 天时
 
 Associate Prof. | William Wulf Faculty Fellow | UVA Computer Science | [CV](/cv.pdf) | [Contact](/contact.html)
 
